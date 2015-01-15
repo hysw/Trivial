@@ -11,3 +11,5 @@ sudoku.cpp
 Algorithm: http://en.wikipedia.org/wiki/Dancing_Links
 
 Horrible implementation...
+
+FIXME: spell check
